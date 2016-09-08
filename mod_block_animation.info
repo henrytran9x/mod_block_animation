@@ -1,0 +1,7 @@
+name = Mod block animation
+description = "Providers animation effect when blocks appears."
+core = 7.x
+package = Custom module - Required
+
+dependencies[] = libraries
+dependencies[] = media
